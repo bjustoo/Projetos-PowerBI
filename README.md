@@ -1,5 +1,6 @@
-Projetos em Power BI
-Aqui estão alguns dos dashboards e relatórios que desenvolvi usando Power BI. Cada projeto demonstra minhas habilidades em visualização de dados e análise
+<b>Projetos em Power BI</b>
+
+Aqui estão alguns dos dashboards que desenvolvi usando Power BI, cada projeto demonstra minhas habilidades em visualização de dados e análise
 
 <b>Projeto Analise de Recursos Humanos</b>
 
