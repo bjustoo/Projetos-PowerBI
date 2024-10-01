@@ -17,3 +17,8 @@ Aqui estão alguns dos dashboards que desenvolvi usando Power BI, cada projeto d
 <b>Projeto Loja de Brinquedos</b>
 
 ![image](https://github.com/user-attachments/assets/7c7dec3b-6953-4b24-a7f6-be97b86309a7)
+
+<b>Projeto Detecção de Anomalias em transações financeiras com Linguagem R e Power BI </b>
+
+![image](https://github.com/user-attachments/assets/7eb5b3ed-6072-42bc-b3fc-23549aba66b7)
+
