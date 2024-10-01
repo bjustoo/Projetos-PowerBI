@@ -12,3 +12,7 @@ Aqui estão alguns dos dashboards e relatórios que desenvolvi usando Power BI. 
 <b>Projeto Analise de Recursos Humanos</b>
 
 ![image](https://github.com/user-attachments/assets/c37af844-5554-4854-aa0c-0932d405454e)
+
+<b>Projeto Loja de Brinquedos</b>
+
+![image](https://github.com/user-attachments/assets/7c7dec3b-6953-4b24-a7f6-be97b86309a7)
